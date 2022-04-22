@@ -1,0 +1,46 @@
+html {
+    background-color: #CB997E;    <!--here i am changing the background volor of the html-->
+    }
+    h1{
+    color: #D3D3D3;   <!--here i am changing the style of my title by changing the volor,height and font size-->
+    height: 50px;
+    font-size: 80px;
+    }
+    
+    h3 {
+    color: #D3D3D3;    <!--here i am simply just changing the color of my header-->
+    }
+    
+    main {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #161A1D;      <!--here i am changing the way the main area is stlyed by changing the font,color and line height-->
+    line-height: 20px;
+    }
+    
+    footer {
+    color: #D3D3D3;
+    font-family: sans-serif;  <!--here i am also changing the style of the footer by changing the color,font family,margin,padding and text align-->
+    margin: 25px 50px 50px;
+    padding: 25px 25px 25px;
+    text-align: center;
+    }
+    header {
+    background-color: #A5A58D;
+    font-family: impact;   <!--here i am changing the background color and font family of my header-->
+    }
+    
+    p {
+    font-family: Comic Sans MS; <!--here i am changing the font family of all of m paragraphs-->
+    }
+    a:link {
+        color: skyblue;  <!--here i am changing the color to a non visited link-->
+    }
+    a:visited {
+        color: darkred;     <!--here i am changing the color of a visited link-->
+    }
+    a:hover {
+        color: white;     <!--here i am changing the color of a link when you are hovering your mouse on it-->
+    }
+    a:active {
+        color: black;  <!--here i am changing the color of the link when you click on it-->
+    }
